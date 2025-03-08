@@ -1,2 +1,2 @@
 # ZincAlerts
-ZincAlerts - Open Source Prouect Alert Tool
+ZincAlerts - Open Source Pokemon Card Price Tracker
